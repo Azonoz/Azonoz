@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Wajahat, a Cloud Enthusiast based in Brisbane. Here's a bit about me:
 
 - 🔭 I’m currently working on implementing 3 Tiered Web application on AWS.
-- 🌱 I’m currently learning Terraform, Docker and Kebernetes.
+- 🌱 I’m currently learning Terraform, Docker and Kubernetes.
 - 💬 Ask me about AWS, Cloud and Testing
 - 📫 How to reach me: https://www.wajahatahmed.com
 - ⚡ Fun fact: Likes to build cars !!!
