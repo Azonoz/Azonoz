@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm Wajahat, a Cloud Enthusiast based in Brisbane.
 
 ## Get in touch
 
-- Twitter: [your Twitter handle]
 - LinkedIn: in/wajahat-ahmed-174b0b21
 - Email: https://www.wajahatahmed.com
 
